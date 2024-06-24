@@ -1,4 +1,4 @@
-# dotNet5784_0055_8636
+
 Software to handle projects that includes engineers and their tasks, which dependencies between tasks. The project is build according to the 3-tier architecture:
 DAL :
 Dal-facade: Including the Api and the entities of dal layer Dal-List and Dal-xml: Crud methods to the databases: lists or xmlfiles, respectively.
