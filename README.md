@@ -220,5 +220,5 @@ The presentation layer is built using WPF and includes:
 
 ## Contributors
 
-- Yael Rov ([@YaelRov](https://github.com/YaelRov))
-- Yoni Stern ([@Yoni4517](https://github.com/Yoni4517))
+- Michal Kastner ([@michalk1924](https://github.com/michalk1924))
+- Tamar Bretler ([@tamar1430](https://github.com/tamar1430))
